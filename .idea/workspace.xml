@@ -23,19 +23,19 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="11" column="44" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="645">
+            <state line="11" column="13" selection-start="265" selection-end="265" vertical-scroll-proportion="0.36697248" vertical-offset="45" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="xmlHTTP.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="xmlHTTP.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/xmlHTTP.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="41" column="1" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.72477067" vertical-offset="378" max-vertical-offset="705">
+            <state line="41" column="1" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="705">
               <folding />
             </state>
           </provider>
@@ -112,11 +112,11 @@
     <option name="changedFiles">
       <list>
         <option value="$PROJECT_DIR$/config/routes.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/app/views/ajaxpages/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/xmlHTTP.js" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -618,13 +618,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="11" column="44" selection-start="268" selection-end="268" vertical-scroll-proportion="0.0" vertical-offset="45" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/application.js">
       <provider selected="true" editor-type-id="text-editor">
         <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="338">
@@ -668,7 +661,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/xmlHTTP.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="1" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.72477067" vertical-offset="378" max-vertical-offset="705">
+        <state line="41" column="1" selection-start="1019" selection-end="1019" vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="705">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="13" selection-start="265" selection-end="265" vertical-scroll-proportion="0.36697248" vertical-offset="45" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
