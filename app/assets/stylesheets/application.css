@@ -16,10 +16,13 @@
 #fname, #lname {color:green;
     font-size: 24pt;
     margin-top: 20px;
-    margin-left: 20px;}
+    margin-left: 20px;
+margin-bottom: 20px;}
 
 #lname {
     margin-top: 0px;
 }
 
 #linkid { visibility:hidden;}
+
+#ajaxButton  { visibility:hidden;}

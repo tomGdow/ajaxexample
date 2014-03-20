@@ -1,4 +1,4 @@
-var xmlFileName = "/xmlfile.xml";
+var xmlFileName = "./xmlfile.xml";
 
 if (window.XMLHttpRequest) {
     xmlhttp = new XMLHttpRequest();
@@ -33,9 +33,14 @@ function displayUser() {
 
 document.getElementById('buttonId').addEventListener("click", function  () {
     displayUser();
-    showDivs('linkid');
+    showDivs('ajaxButton');
+    hideDivs('buttonId')
 }, false);
 
 function showDivs(mydiv) {
     document.getElementById(mydiv).style.visibility = 'visible';
+}
+
+function hideDivs(mydiv) {
+    document.getElementById(mydiv).style.visibility = 'hidden';
 }

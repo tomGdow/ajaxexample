@@ -1,12 +1,20 @@
 <h1>Ajax Example</h1>
 
-<input type="button" id="buttonId" value="Make Ajax Request"/>
+<input type="button" id="buttonId" class = "btn btn-large" value="Make XML Ajax Request"/>
 
 
 <div id="fname"></div>
 <div id="lname"></div>
 
+
+
+
+
+<input type="button" id="ajaxButton" value="Make HTML Ajax Request"/>
+
+<div id="htmlDiv"></div>
+
 <p>
-  <%= link_to("View Raw XML File", "/xmlfile.xml",
+  <%= link_to("View Raw XML File (in Separate Window)", "/xmlfile.xml",
               :target => '_blank', :id=> "linkid") %>
 </p>
