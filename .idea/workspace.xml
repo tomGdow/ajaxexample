@@ -80,10 +80,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="htmlHTTP.js" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="htmlHTTP.js" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/htmlHTTP.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="29" selection-start="1661" selection-end="1661" vertical-scroll-proportion="0.6938776" vertical-offset="485" max-vertical-offset="975">
+            <state line="55" column="29" selection-start="1661" selection-end="1661" vertical-scroll-proportion="0.0" vertical-offset="485" max-vertical-offset="975">
               <folding />
             </state>
           </provider>
@@ -98,10 +98,10 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Gemfile" pinned="false" current="false" current-in-tab="false">
+      <file leaf-file-name="Gemfile" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="645">
+            <state line="25" column="64" selection-start="589" selection-end="626" vertical-scroll-proportion="0.7653061" vertical-offset="0" max-vertical-offset="645">
               <folding />
             </state>
           </provider>
@@ -129,12 +129,12 @@
         <option value="$PROJECT_DIR$/config/routes.rb" />
         <option value="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
         <option value="$PROJECT_DIR$/config/application.rb" />
-        <option value="$PROJECT_DIR$/Gemfile" />
         <option value="$PROJECT_DIR$/public/test.html" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/xmlHTTP.js" />
         <option value="$PROJECT_DIR$/app/assets/stylesheets/application.css" />
         <option value="$PROJECT_DIR$/app/views/ajaxpages/index.html.erb" />
         <option value="$PROJECT_DIR$/app/assets/javascripts/htmlHTTP.js" />
+        <option value="$PROJECT_DIR$/Gemfile" />
       </list>
     </option>
   </component>
@@ -808,13 +808,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Gemfile">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="0" selection-start="142" selection-end="142" vertical-scroll-proportion="0.0" vertical-offset="131" max-vertical-offset="645">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/public/test.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="4" column="27" selection-start="76" selection-end="76" vertical-scroll-proportion="-2.5" vertical-offset="0" max-vertical-offset="150">
@@ -852,7 +845,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/htmlHTTP.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="55" column="29" selection-start="1661" selection-end="1661" vertical-scroll-proportion="0.6938776" vertical-offset="485" max-vertical-offset="975">
+        <state line="55" column="29" selection-start="1661" selection-end="1661" vertical-scroll-proportion="0.0" vertical-offset="485" max-vertical-offset="975">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Gemfile">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="25" column="64" selection-start="589" selection-end="626" vertical-scroll-proportion="0.7653061" vertical-offset="0" max-vertical-offset="645">
           <folding />
         </state>
       </provider>
