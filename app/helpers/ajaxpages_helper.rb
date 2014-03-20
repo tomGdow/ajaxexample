@@ -1,0 +1,2 @@
+module AjaxpagesHelper
+end
